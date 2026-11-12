@@ -1,2 +1,3 @@
 # Source README file
-This src/ will contain all our source code and scripts' files for firewall build and test
+
+This src/ directory will contain our firewall project build and test source code and script files.
